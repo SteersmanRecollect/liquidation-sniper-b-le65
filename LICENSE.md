@@ -1,4 +1,4 @@
-# 
+# advanced Automation Script for liquidation sniper bot | stop-loss + isolated-margin is the best liquidation sniper bot, featuring stop-loss and isolated-margin. Smart, fast, and
 
 
 
